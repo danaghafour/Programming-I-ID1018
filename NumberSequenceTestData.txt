@@ -1,0 +1,23 @@
+the sequence:
+1.0, 2.0, 3.0, 5.0, 8.0, 13.0, 21.0
+
+length: 7
+one upper bound: 21.0
+one lower bound: 1.0
+
+number at position 4: 8.0
+position of 8.0: 4
+
+is inceasing: true
+is deceasing: false
+contains 21.0: true
+
+add 34.0:
+1.0, 2.0, 3.0, 5.0, 8.0, 13.0, 21.0, 34.0
+insert 0.0 at position 7:
+1.0, 2.0, 3.0, 5.0, 8.0, 13.0, 21.0, 0.0, 34.0
+remove at position 7:
+1.0, 2.0, 3.0, 5.0, 8.0, 13.0, 21.0, 34.0
+
+corresponding array:
+1.0 2.0 3.0 5.0 8.0 13.0 21.0 34.0
